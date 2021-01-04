@@ -22,7 +22,7 @@ If you have a Lite account, you can upgrade it, see [this](https://cloud.ibm.com
 
 ![Screenshot](Storage1.PNG)
 
-* A new window opens,select the cluster and put the name you want to the workspace in this case it will be called storage-example, we click on install and wait a few minutes.
+* A new window opens, select the cluster and put the name you want to the workspace in this case it will be called _storage-example_, we click on install and wait a few minutes.
 
 ![Screenshot](Storage2.PNG)
 
